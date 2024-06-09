@@ -1,0 +1,9 @@
+.box{
+    height: 100px;
+    background-color: brown;
+    margin-bottom: 5px;
+    color: floralwhite;
+}
+.text{
+    font-size: 23px;
+}
